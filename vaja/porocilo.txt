@@ -7,3 +7,13 @@
 	  	(use "git add <file>..." to include in what will be committed)
 
         	vaja/
+
+2. status datotek spremenjen:
+On branch master
+	Changes not staged for commit:
+  	(use "git add <file>..." to update what will be committed)
+ 	(use "git checkout -- <file>..." to discard changes in working directory)
+
+	        modified:   vaja/glasba.txt
+        	modified:   vaja/porocilo.txt
+	        modified:   vaja/tmp.txt
