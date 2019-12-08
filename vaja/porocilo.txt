@@ -17,3 +17,11 @@ On branch master
 	        modified:   vaja/glasba.txt
         	modified:   vaja/porocilo.txt
 	        modified:   vaja/tmp.txt
+
+3.
+Changes not staged for commit:
+  	(use "git add/rm <file>..." to update what will be committed)
+ 	(use "git restore -- <file>..." to discard changes in working directory)
+			deleted:    tmp.txt
+
+
